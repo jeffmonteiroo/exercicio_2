@@ -15,7 +15,8 @@ Abra o seu editor favorito e faça suas modificações, não se esqueça de salv
 Voltando para o terminal e dentro da pasta do projeto, use o comando git add . para preparar todos os arquivos modificados para o commit
 Agora use o comando git commit -m "aqui sua mensagem de commit" para fazer o commit das suas mudanças na branch
 Para enviar seu commit para seu repositório remoto utilize o comando git push origin nome-da-sua-branch
-3. Fazendo Pull Request (PR) & dando merge
+
+3. Fazendo Pull Request (PR) & dando merge [X] Realizado
 
 No site do GitHub e na sua página do repositório na aba Pull requests clique no botão New pull request - [X] Realizado
 Agora ajuste nas opções para qual branch você quer enviar as suas modificações (lado esquerdo) e a sua branch que estará enviando essas modificações (lado direito)
