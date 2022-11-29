@@ -17,7 +17,7 @@ Agora use o comando git commit -m "aqui sua mensagem de commit" para fazer o com
 Para enviar seu commit para seu repositório remoto utilize o comando git push origin nome-da-sua-branch
 3. Fazendo Pull Request (PR) & dando merge
 
-No site do GitHub e na sua página do repositório na aba Pull requests clique no botão New pull request
+No site do GitHub e na sua página do repositório na aba Pull requests clique no botão New pull request - [X] Realizado
 Agora ajuste nas opções para qual branch você quer enviar as suas modificações (lado esquerdo) e a sua branch que estará enviando essas modificações (lado direito)
 Observe se não há qualquer conflito, caso não haja confirme a PR!
 Agora você só precisa fazer o merge, para isso na mesma aba do passo 1, clique na PR que deseja dar merge
