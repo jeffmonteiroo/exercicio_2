@@ -22,3 +22,5 @@ Agora ajuste nas opções para qual branch você quer enviar as suas modificaç�
 Observe se não há qualquer conflito, caso não haja confirme a PR!
 Agora você só precisa fazer o merge, para isso na mesma aba do passo 1, clique na PR que deseja dar merge
 Como não há nenhum conflito entre as branches (passo 3) é só clicar no botão Merge pull request
+
+##
